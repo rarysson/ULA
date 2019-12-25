@@ -1,0 +1,7 @@
+/simulation
+/db
+/output_files
+/incremental_db
+
+*.bak
+*.txt
